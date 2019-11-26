@@ -1,0 +1,2 @@
+# sehatlinku
+scripjava setatlinku
